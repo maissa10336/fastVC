@@ -40,7 +40,30 @@ This application was developed as a project at [Politecnico di Milano](https://w
 *[Federico Miotello](https://github.com/fmiotello)*<br>
 *[Eugenio Poliuti](https://github.com/Poliuti)*<br>
 
-This project is taken from the original link https://github.com/fmiotello/fastVC by maissa10336
+Marzieh Ali Atashi is a master's student from South Tehran University
 
-In this project, three systems of encoder, vocoder, and synthesizer are used for sound compression, and in this method, the empty space and pauses between speech are removed through the spectrogram without changing the content of the speech and in 5 classes examined. It has been completely successful.
-در این پروژه از طریق سه تا سیستم encoder , vocoder , synthesizer برای فشرده سازی صدا استفاده شده و در این روش از طریق اسپکتوگرام فضای خالی و مکث های بین گفتار حذف شده است بدون اینکه در محتوای گفتار تغییری ایجاد شود و در 5 کلاس مورد بررسی قرار گرفته که کاملا موفقیت آمیز بوده است .
+40114140111030 student number
+
+Digital signal processing course
+
+Professor Dr. Mahde Eslami
+
+https://github.com/fmiotello by Marzieh Ali Atashi 
+
+Summary by Marzieh Ali Atashi 
+
+The fastVC project is a fast and efficient non-parallel and audio conversion tool.
+in which the voice of a source speaker is similar to the voice of a target speaker without changing the temporal content of the language and is shown in the output speaker.
+
+This is a waterfall model. This waterfall model consists of three main parts
+ASR, Transcription, TTs
+
+In this project, there is an automatic speech recognition model, a text-to-speech model, and a speech-to-code conversion model. The source code of the speech-to-transcription and text conversion part is performed by the encoder and the related sourcecode is in the project.
+Text-to-speech conversion is performed with the voice of the target speaker in the Synthesizer and Vocoder section, and the source code for its implementation is also available.
+
+The remarkable thing about the fastVc project is that this cascade model has been used as a base in most of the projects of converting speech to other languages, changing speech to text, encoding, voice encryption, and the output of this cascade model.
+This basic waterfall model is used in the main set of all projects implemented in all 120 languages in the world.
+This cascade model can be taught and this training is well seen in the use of other languages and has been very efficient.
+
+
+
