@@ -40,4 +40,7 @@ This application was developed as a project at [Politecnico di Milano](https://w
 *[Federico Miotello](https://github.com/fmiotello)*<br>
 *[Eugenio Poliuti](https://github.com/Poliuti)*<br>
 
+This project is taken from the original link https://github.com/fmiotello/fastVC by maissa10336
 
+In this project, three systems of encoder, vocoder, and synthesizer are used for sound compression, and in this method, the empty space and pauses between speech are removed through the spectrogram without changing the content of the speech and in 5 classes examined. It has been completely successful.
+در این پروژه از طریق سه تا سیستم encoder , vocoder , synthesizer برای فشرده سازی صدا استفاده شده و در این روش از طریق اسپکتوگرام فضای خالی و مکث های بین گفتار حذف شده است بدون اینکه در محتوای گفتار تغییری ایجاد شود و در 5 کلاس مورد بررسی قرار گرفته که کاملا موفقیت آمیز بوده است .
